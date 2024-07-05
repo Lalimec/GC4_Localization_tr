@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_GenericConfirm</InternalName>
+    <FlavorTextOption>
+      <StringKey>AllianceAscendant_GenericConfirm_Option0_0</StringKey>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <!---->
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_StartOfGame</InternalName>
+    <FlavorTextOption>
+      <StringKey>AllianceAscendant_StartOfGame_Option0_0</StringKey>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_ControlsMinorCivxXeloxiRemain</InternalName>
+    <FlavorTextOption>
+      <StringKey>AllianceAscendant_ControlsMinorCivxXeloxiRemain_Option0_0</StringKey>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_ControlsMinorCivxXeloxiDestroyed</InternalName>
+    <FlavorTextOption>
+      <StringKey>AllianceAscendant_ControlsMinorCivxXeloxiDestroyed_Option0_0</StringKey>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_XeloxiDestroyedMinorFactionsUncontrolled</InternalName>
+    <FlavorTextOption>
+      <StringKey>AllianceAscendant_XeloxiDestroyedMinorFactionsUncontrolled_Option0_0</StringKey>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_XeloxiDestroyedMinorFactionsControlled</InternalName>
+    <FlavorTextOption>
+      <StringKey>AllianceAscendant_XeloxiDestroyedMinorFactionsControlled_Option0_0</StringKey>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_DestroyedMinorFaction</InternalName>
+    <FlavorTextOption>
+      <StringKey>AllianceAscendant_DestroyedMinorFaction_Option0_0</StringKey>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

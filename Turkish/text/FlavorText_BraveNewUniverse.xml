@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <!---->
+  <FlavorTextDef>
+    <InternalName>BraveNewUniverse_StartOfGame</InternalName>
+    <FlavorTextOption>
+      <StringKey>BraveNewUniverse_StartOfGame_Option0_0</StringKey>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

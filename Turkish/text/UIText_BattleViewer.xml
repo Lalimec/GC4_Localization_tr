@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+	
+	<StringTable>
+		<Label>BV_2DIGITVLUE</Label>
+		<String>00</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>BV_LongShipName</Label>
+		<String>T.A.S. LongShipName M2-001</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>BV_Round</Label>
+		<String>Round 1</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>BV_LogTitle</Label>
+		<String>Battle Log</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>BV_ShipClass</Label>
+		<String>Ship Class Name</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>BV_ShowLog</Label>
+		<String>Show Battle Log</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>BV_Targeting</Label>
+		<String>Targeting</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>BV_WeaponName</Label>
+		<String>Weapon Name</String>
+	</StringTable>
+
+  <StringTable>
+    <Label>BV_AttackPotential</Label>
+    <String>[ICON=AttackIcon] Attack (Potential)</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Battle_Log_FullyDefended</Label>
+    <String>Completely Defended</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_Absorption</Label>
+    <String>[ICON=AbsorptionIcon] Absorbed</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_Evasion</Label>
+    <String>[ICON=EvasionIcon] Evaded</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_Mitigated</Label>
+    <String>[ICON=MitigationIcon] Mitigated</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_NoTarget</Label>
+    <String>Acquiring Target...</String>
+  </StringTable>
+
+	<StringTable>
+		<Label>BV_ShowShipHud</Label>
+		<String>Show Ship Huds</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>BV_HideShipHud</Label>
+		<String>Hide Ship Huds</String>
+	</StringTable>
+
+  <StringTable>
+    <Label>BV_BattleModifiersHeader</Label>
+    <String>Battle Modifiers</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_AttackBreakdown</Label>
+    <String>Attack Breakdown</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_DefenseBreakdown</Label>
+    <String>Defense Breakdown</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_CooldownPaused</Label>
+    <String>-</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_AccuracyBreakdown</Label>
+    <String>Accuracy Breakdown</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_HitPointsMod_TacticalRepair</Label>
+    <String>Tactical Repair</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_HitPointsMod_Vampire</Label>
+    <String>Vampire</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_StartingHitPoints</Label>
+    <String>Start</String>    
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_DamageReduction</Label>
+    <String>Damage Resistance</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_BeamDamageReduction</Label>
+    <String>Beam Damage Resistance</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_MissileDamageReduction</Label>
+    <String>Missile Damage Resistance</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_KineticDamageReduction</Label>
+    <String>Kinetic Damage Resistance</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_AssaultTakenOver</Label>
+    <String>Captured!</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_AssaultTroops</Label>
+    <String>Assault Troops</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_AssaultAttackTooltipHeader</Label>
+    <String>Assault Attack</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_DefendingAssaultTroops</Label>
+    <String>Defending Troops</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_AssaultTroopsDefeated</Label>
+    <String>Defending Troops Defeated</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_DefendingAssaultTroopsRemaining</Label>
+    <String>Defending Troops Remaining</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BV_BlockTargeting</Label>
+    <String>Cannot Be Targeted</String>
+  </StringTable>
+
+</StringTableList>

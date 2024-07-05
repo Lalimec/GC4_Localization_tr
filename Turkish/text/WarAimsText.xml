@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+
+  <StringTable>
+    <Label>WarAims_BorderSkirmish_Name</Label>
+    <String>War of Defense</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>WarAims_BorderSkirmish_Desc</Label>
+    <String>A short-term war with the intent to preempt aggression and protect borders. Declaring a War of Defense carries minor diplomatic penalties.[BR][BR]Gain [HS=HS_AggressiveNeighbor]Aggressive Neighbor[/HS]</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAims_WarOfExpansion_Name</Label>
+    <String>War of Expansion</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>WarAims_WarOfExpansion_Desc</Label>
+    <String>A moderate-length war with the intent to expand borders and spread influence. Declaring a War of Expansion results in diplomatic penalties.[BR][BR]Gain [HS=HS_DangerousNeighbor]Dangerous Neighbor[/HS]</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAims_WarOfConquest_Name</Label>
+    <String>War of Conquest</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>WarAims_WarOfConquest_Desc</Label>
+    <String>A long-term war with the intent to claim vast expanses of enemy territory. Declaring a War of Conquest comes with harsher diplomatic penalties.[BR][BR]Gain [HS=HS_GalacticThreat]Galactic Threat[/HS]</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAims_WarOfAnnihilation_Name</Label>
+    <String>War of Annihilation</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>WarAims_WarOfAnnihilation_Desc</Label>
+    <String>A prolonged war with the intent to wipe out the enemy civilization. Declaring a War of Annihilation will carry severe diplomatic penalties.[BR][BR]Gain [HS=HS_ClearAndPresentDanger]Clear and Present Danger[/HS]</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAction_CaptureCoreWorld_Name</Label>
+    <String>Conquer Core World</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAction_CaptureCoreWorld_Completed_Name</Label>
+    <String>Core Worlds Conquered</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>WarAction_CaptureCoreWorld_Desc</Label>
+    <String>+5 War Aim Points</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAction_CaptureColony_Name</Label>
+    <String>Conquer Colony</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAction_CaptureColony_Completed_Name</Label>
+    <String>Colonies Conquered</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>WarAction_CaptureColony_Desc</Label>
+    <String>+2 War Aim Points</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAction_CaptureStarbase_Name</Label>
+    <String>Conquer Starbase</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAction_CaptureStarbase_Completed_Name</Label>
+    <String>Starbase Conquered</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>WarAction_CaptureStarbase_Desc</Label>
+    <String>+1 War Aim Points</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAction_WonFleetBattle_Name</Label>
+    <String>Won Fleet Battle</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarAction_WonFleetBattle_Completed_Name</Label>
+    <String>Fleet Battles Won</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>WarAction_WonFleetBattle_Desc</Label>
+    <String>War Aim Points awarded are 10% of the enemy fleet's combat rating</String>
+  </StringTable>
+
+
+  <StringTable>
+    <Label>DiplomaticModifier_AggressiveNeighbor</Label>
+    <String>Aggressive Neighbor</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>DiplomaticModifier_DangerousNeighbor</Label>
+    <String>Dangerous Neighbor</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>DiplomaticModifier_GalacticThreat</Label>
+    <String>Galactic Threat</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>DiplomaticModifier_ClearAndPresentDanger</Label>
+    <String>Clear And Present Danger</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WAR_NAME_BORDER_SKIRMISH_GENERIC_1</Label>
+    <String>War of Defense</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WAR_NAME_EXPANSION_GENERIC_1</Label>
+    <String>War of Expansion</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>WAR_NAME_CONQUEST_GENERIC_1</Label>
+    <String>War of Conquest</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>WAR_NAME_ANNIHILATION_GENERIC_1</Label>
+    <String>War of Annihilation</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DiplomaticMod_AggressiveNeighbor_HSDesc</Label>
+    <String>A minor reputation gained by declaring a War of Defense that affects [HS=HS_Diplomacy]Diplomacy[/HS].[BR][BR][COLOR=UIDefaultHighlight]-1 Diplomacy with all Civilizations[/COLOR]</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DiplomaticMod_DangerousNeighbor_HSDesc</Label>
+    <String>A reputation gained by declaring a War of Expansion that affects [HS=HS_Diplomacy]Diplomacy[/HS].[BR][BR][COLOR=UIDefaultHighlight]-2 Diplomacy with all Civilizations[/COLOR]</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DiplomaticMod_GalacticThreat_HSDesc</Label>
+    <String>A harsh reputation gained by declaring a War of Conquest that affects [HS=HS_Diplomacy]Diplomacy[/HS].[BR][BR][COLOR=UIDefaultHighlight]-3 Diplomacy with all Civilizations[/COLOR]</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DiplomaticMod_ClearAndPresentDanger_HSDesc</Label>
+    <String>A severe reputation gained by declaring a War of Annihilation that affects [HS=HS_Diplomacy]Diplomacy[/HS].[BR][BR][COLOR=UIDefaultHighlight]-4 Diplomacy with all Civilizations[/COLOR]</String>
+  </StringTable>
+  
+</StringTableList>
